@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Gabriel
 
-<!--
-**Welzel-Ga/Welzel-Ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on Data Science. 
+Over the past few years, I’ve been developing my technical skills through hands-on projects involving data analysis and machine learning, always aiming to solve practical, real-world problems.
 
-Here are some ideas to get you started:
+On this GitHub, you’ll find projects mainly developed in Python, covering exploratory data analysis, modeling, and result evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Areas of interest
+- Data Science  
+- Data Analysis  
+- Machine Learning  
+- Python and SQL  
+- Applied Statistics  
+
+### 📂 Featured projects
+- **PredictingBeersML**  
+  Machine learning project to predict beer ratings using structured data.
+
+- **PredictingFruits**  
+  Classification project using Python and machine learning algorithms to predict fruit categories.
+
+- **ComparingLinesML**  
+  Comparison of machine learning models and performance metrics.
+
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/gabriel-welzel-a49258355
+- Email: gabrielwelzel@outlook.com
